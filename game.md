@@ -2,7 +2,7 @@
 #code this game pizza by meg ray
 
 
-#set up Game
+[#set up Game
 
 #import Libraries
 import pygame
@@ -46,3 +46,4 @@ while game_running:
 #Clean up game
 pygame.quit()
             
+](https://github.com/webr7818/CNLA-Python-Projects/tree/1c0114d20c04d08523a0f1bf15e68cc9a3904115/Assets)https://github.com/webr7818/CNLA-Python-Projects/tree/1c0114d20c04d08523a0f1bf15e68cc9a3904115/Assets
